@@ -4,3 +4,9 @@
 :smile: Hello, My name is Donghoon Lee(Jay Lee).
 
 I have project experience using Python and Javascript. :orange_book: I am interested in web development. I seek to become a full stack developer. :computer:
+
+# :blue_heart: Career
+|    **Type**   |        **Date**       |                    **Contents**                    |         **Organization**         |
+|:---------:|:-----------------:|:----------------------------------------------:|:----------------------------:|
+| **Education** | 2012.3  ~  2019.8 | Department of Material Science and Engineering |      **Yonsei  University**      |
+| **Education** |     2020.7  ~     |         Complete all SW project courses        | **Samsung SW Academy for Youth** |
