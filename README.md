@@ -10,3 +10,6 @@ I have project experience using Python and Javascript. :orange_book: I am intere
 |:---------:|:-----------------:|:----------------------------------------------:|:----------------------------:|
 | **Education** | 2012.3  ~  2019.8 | Department of Material Science and Engineering |      **Yonsei  University**      |
 | **Education** |     2020.7  ~     |         Complete all SW project courses        | **Samsung SW Academy for Youth** |
+
+# :star2: Tech Stack
+- Language : <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
