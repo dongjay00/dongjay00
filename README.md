@@ -17,3 +17,6 @@ I have project experience using Python and Javascript. :orange_book: I am intere
 - Backend : <img src="https://img.shields.io/badge/Django-092D1F?style=flat-square&logo=Django&logoColor=white"> , <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
 
 ![Jay's github stats](https://github-readme-stats.vercel.app/api?username=dongjay00&show_icons=true)
+
+# :fire: Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjswodlehdgn@gmail.com)](mailto:cjswodlehdgn@gmail.com)
