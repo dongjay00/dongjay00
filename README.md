@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Donghoon%20Lee&fontSize=90&animation=twinkling&fontAlignY=43)
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
+<p align="center">Jay's Profile</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
