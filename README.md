@@ -49,5 +49,6 @@
   <a href="https://www.instagram.com/dongjay00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dongjay00/"/></a>&nbsp
   <a href="mailto:cjswodlehdgn@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjswodlehdgn@gmail.com"/></a>
 </p>
-<br>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=Donghoon%20Lee&fontSize=90&animation=twinkling&fontAlignY=43)
+
+<br><br>
+![footer](https://capsule-render.vercel.app/api?section=footer)
