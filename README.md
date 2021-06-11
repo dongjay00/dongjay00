@@ -5,7 +5,7 @@
 
 <p align="center">Jay's Profile</p>
 
-<br><br>
+<br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Languages </p>
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>&nbsp
 </p>
 
-<br><br>
+<br>
 <h3 align="center"> ⭐ Projects ⭐ </h3>
   
 <p align="center">
@@ -42,18 +42,20 @@
   <a href="https://github.com/dongjay00/Movie24"><img src="https://img.shields.io/badge/Movie24-black"/></a>
 </p>
 
-<br><br>
+<br>
 <h3 align="center"> 🍒 Me 🍒 </h3>
+
 <p align="center">
   <a href="https://jswdiary.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://jswdiary.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/dongjay00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dongjay00/"/></a>&nbsp
   <a href="mailto:cjswodlehdgn@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjswodlehdgn@gmail.com"/></a>
 </p>
 
-<br><br>
+<br>
+<h3 align="center"> 🍋 Etc 🍋 </h3>
+
 [![Donghoon Lee's github stats](https://github-readme-stats.vercel.app/api?username=dongjay00&show_icons=true&theme=dracula)](https://github.com/dongjay00/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjay00&layout=compact&theme=dracula)](https://github.com/dongjay00)
 
-
-<br><br>
+<br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&animation=twinkling)
