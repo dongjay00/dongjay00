@@ -38,8 +38,9 @@
 <p align="center">
   <a href="https://github.com/dongjay00/fospublisher"><img src="https://img.shields.io/badge/%EC%97%AD%EC%A0%84%EA%B8%B0%EB%A1%9D%EC%86%8C-yellowgreen"/></a>&nbsp
   <a href="https://github.com/dongjay00/RUS"><img src="https://img.shields.io/badge/RUS-green"/></a>&nbsp
-  <a href="https://github.com/dongjay00/ChallengeSNS-CHABIT"><img src="https://img.shields.io/badge/CHABIT-red"/></a>
-  <a href="https://github.com/dongjay00/Movie24"><img src="https://img.shields.io/badge/Movie24-black"/></a>
+  <a href="https://github.com/dongjay00/ChallengeSNS-CHABIT"><img src="https://img.shields.io/badge/CHABIT-red"/></a>&nbsp
+  <a href="https://github.com/dongjay00/Movie24"><img src="https://img.shields.io/badge/Movie24-black"/></a>&nbsp
+  <a href="https://github.com/fospublisher201/fospublisher-vue-text-editor"><img src="https://img.shields.io/badge/TextEditor-white"/></a>&nbsp
 </p>
 
 <br>
