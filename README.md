@@ -50,4 +50,4 @@
   <a href="mailto:cjswodlehdgn@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjswodlehdgn@gmail.com"/></a>
 </p>
 <br>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Donghoon%20Lee&fontSize=90&animation=twinkling&fontAlignY=43)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=Donghoon%20Lee&fontSize=90&animation=twinkling&fontAlignY=43)
