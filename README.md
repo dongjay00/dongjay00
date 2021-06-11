@@ -3,6 +3,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Donghoon%20Lee&fontSize=90&animation=twinkling&fontAlignY=43)
 
+<center>가운데</center>
+
 :smile: Hi, My name is Donghoon Lee (Jay Lee). I am a developer who pursues balanced growth.
 
 I have some project experiences using Python and Javascript. :orange_book: I am interested in web development. I seek to become a full stack developer. :computer:
