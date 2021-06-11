@@ -51,4 +51,9 @@
 </p>
 
 <br><br>
+<p align="center">
+  [![Donghoon Lee's github stats](https://github-readme-stats.vercel.app/api?username=dongjay00&show_icons=true&theme=dracula)](https://github.com/dongjay00/github-readme-stats)
+</p>
+
+<br><br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&animation=twinkling)
