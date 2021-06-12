@@ -3,7 +3,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Donghoon%20Lee&fontSize=90&animation=twinkling&fontAlignY=37)
 
-<p align="center">Jay's Profile</p>
+<p align="center">📘 Jay's Profile 📘</p>
+
+<br>
+<p align="center">균형 잡힌 성장을 추구하는 개발자 이동훈입니다.</p>
 
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
