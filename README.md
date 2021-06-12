@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
 </p>
 
