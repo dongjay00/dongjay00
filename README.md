@@ -7,6 +7,7 @@
 
 <br>
 <p align="center">균형 잡힌 성장을 추구하는 개발자 이동훈입니다.</p>
+<p align="center">I am a developer who pursues balanced growth.</p>
 
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
