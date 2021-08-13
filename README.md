@@ -50,7 +50,7 @@
 <h3 align="center"> 🍎 Me 🍎 </h3>
 
 <p align="center">
-  <a href="https://jswdiary.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://jswdiary.tistory.com/"/></a>&nbsp
+<!--   <a href="https://jswdiary.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://jswdiary.tistory.com/"/></a>&nbsp -->
   <a href="https://www.instagram.com/dongjay00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dongjay00/"/></a>&nbsp
   <a href="mailto:cjswodlehdgn@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjswodlehdgn@gmail.com"/></a>
 </p>
