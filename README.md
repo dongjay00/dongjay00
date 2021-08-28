@@ -38,7 +38,7 @@
   <a href="https://github.com/dongjay00/RUS"><img src="https://img.shields.io/badge/RUS-green"/></a>&nbsp
   <a href="https://github.com/dongjay00/ChallengeSNS-CHABIT"><img src="https://img.shields.io/badge/CHABIT-red"/></a>&nbsp
   <a href="https://github.com/dongjay00/Movie24"><img src="https://img.shields.io/badge/Movie24-black"/></a>&nbsp
-  <a href="https://github.com/fospublisher201/fospublisher-vue-text-editor"><img src="https://img.shields.io/badge/TextEditor-white"/></a>&nbsp
+<!--   <a href="https://github.com/fospublisher201/fospublisher-vue-text-editor"><img src="https://img.shields.io/badge/TextEditor-white"/></a>&nbsp -->
 </p>
 
 <br>
