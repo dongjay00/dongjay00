@@ -3,8 +3,6 @@
 
 # 📘 Jay's Profile 📘
 
-Junior Web Frontend developer
-
 ## 🛠 Tech 🛠
 
 |Languages|Web Frontend|Web Backend|
