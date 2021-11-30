@@ -17,4 +17,4 @@
 
 ## 🍎 How to reach me 🍎
 <a href="mailto:cjswodlehdgn@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjswodlehdgn@gmail.com"/></a>
-<a href="https://general-viola-ee5.notion.site/Donghoon-Lee-5bd1c8b6cd9c40efbc94f61d4cff3212"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://general-viola-ee5.notion.site/Donghoon-Lee-5bd1c8b6cd9c40efbc94f61d4cff3212"/></a>
+<!-- <a href="https://general-viola-ee5.notion.site/Donghoon-Lee-5bd1c8b6cd9c40efbc94f61d4cff3212"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://general-viola-ee5.notion.site/Donghoon-Lee-5bd1c8b6cd9c40efbc94f61d4cff3212"/></a> -->
