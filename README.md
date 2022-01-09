@@ -4,6 +4,7 @@
 # 📘 Jay's Profile 📘
 Junior Front-end Developer
 <br />
+
 ## 🛠 Tech 🛠
 
 |Languages|Web Frontend|Web Backend|
