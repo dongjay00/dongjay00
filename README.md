@@ -1,10 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjay00&count_bg=%2379C83D&title_bg=%23555555&&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub followers](https://img.shields.io/github/followers/dongjay00?style=social)
 
-#📘 Jay's Profile 📘
+# 📘 Jay's Profile 📘
 Junior Front-end Developer
 <br />
-##🛠 Tech 🛠
+## 🛠 Tech 🛠
 
 |Languages|Web Frontend|Web Backend|
 |---|---------|---|
@@ -19,7 +19,7 @@ Junior Front-end Developer
 -->
 <br/>
 
-##🍎 How to reach me 🍎
+## 🍎 How to reach me 🍎
 <a href="mailto:cjswodlehdgn@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjswodlehdgn@gmail.com"/></a>
 <a href="https://blog.naver.com/PostList.naver?blogId=dongjay00"><img src="https://img.shields.io/badge/Blog-19CE60?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/PostList.naver?blogId=dongjay00"/></a>
 <!-- <a href="https://general-viola-ee5.notion.site/Donghoon-Lee-5bd1c8b6cd9c40efbc94f61d4cff3212"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://general-viola-ee5.notion.site/Donghoon-Lee-5bd1c8b6cd9c40efbc94f61d4cff3212"/></a> -->
