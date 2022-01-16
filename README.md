@@ -2,6 +2,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/dongjay00?style=social)
 
 # 📘 Jay's Profile 📘
+이동훈 (Donghoon Lee / Jay Lee)
+<br />
 Junior Front-end Developer
 <br />
 
