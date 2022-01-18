@@ -24,5 +24,5 @@ Front-end Developer
 ## 🍎 How to reach me 🍎
 <a href="mailto:cjswodlehdgn@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjswodlehdgn@gmail.com"/></a>
 <a href="https://blog.naver.com/PostList.naver?blogId=dongjay00"><img src="https://img.shields.io/badge/Blog-19CE60?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/PostList.naver?blogId=dongjay00"/></a>
-<a href="www.linkedin.com/in/donghoon-lee-49a374219"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/donghoon-lee-49a374219"/></a>
+<a href="https://linkedin.com/in/donghoon-lee-49a374219"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/donghoon-lee-49a374219"/></a>
 <!-- <a href="https://general-viola-ee5.notion.site/Donghoon-Lee-5bd1c8b6cd9c40efbc94f61d4cff3212"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://general-viola-ee5.notion.site/Donghoon-Lee-5bd1c8b6cd9c40efbc94f61d4cff3212"/></a> -->
