@@ -16,10 +16,10 @@ Front-end Developer
 <!-- <br> ![d](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white) ![e](https://img.shields.io/badge/MongoDB-3F9937?style=flat-square&logo=MongoDB&logoColor=white) -->
 <!-- ![c](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) -->
 
-<!--
+
 [![Donghoon Lee's github stats](https://github-readme-stats.vercel.app/api?username=dongjay00&show_icons=true&theme=dracula)](https://github.com/dongjay00/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjay00&layout=compact&theme=dracula)](https://github.com/dongjay00)
--->
+
 
 ## 🍎 How to reach me 🍎
 <a href="mailto:cjswodlehdgn@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjswodlehdgn@gmail.com"/></a>
