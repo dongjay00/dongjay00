@@ -20,6 +20,11 @@ Front-end Developer
 <!-- [![Donghoon Lee's github stats](https://github-readme-stats.vercel.app/api?username=dongjay00&show_icons=true&theme=dracula)](https://github.com/dongjay00/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjay00&layout=compact&theme=dracula)](https://github.com/dongjay00) -->
 
+## 🍋 Career 🍋
+
+|Period|Company|
+|---|---|
+|2022.02 ~ |MerakiPlace|
 
 ## 🍎 How to reach me 🍎
 <a href="mailto:cjswodlehdgn@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjswodlehdgn@gmail.com"/></a>
