@@ -11,10 +11,10 @@ Front-end Developer
 
 |Languages|Web Frontend|Web Backend|
 |---|---------|---|
-|![a](https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white) ![b](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![c](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)|![a](https://img.shields.io/badge/React-50D1F3?style=flat-square&logo=React&logoColor=white) ![b](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)|![a](https://img.shields.io/badge/Node.js-7FC728?style=flat-square&logo=Node.js&logoColor=white) ![b](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white) ![c](https://img.shields.io/badge/mongoDB-4D9144?style=flat-square&logo=mongoDB&logoColor=white)|
-<!-- https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white -->
+|![a](https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white) ![b](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![c](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)|![a](https://img.shields.io/badge/React-50D1F3?style=flat-square&logo=React&logoColor=white) ![b](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) ![c](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)|![a](https://img.shields.io/badge/Node.js-7FC728?style=flat-square&logo=Node.js&logoColor=white) ![b](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white) ![c](https://img.shields.io/badge/mongoDB-4D9144?style=flat-square&logo=mongoDB&logoColor=white)|
 <!-- <br> ![d](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white) ![e](https://img.shields.io/badge/MongoDB-3F9937?style=flat-square&logo=MongoDB&logoColor=white) -->
 <!-- ![c](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) -->
+<!-- https://img.shields.io/badge/Vue-40A572?style=flat-square&logo=Vue.js&logoColor=white -->
 
 
 <!-- [![Donghoon Lee's github stats](https://github-readme-stats.vercel.app/api?username=dongjay00&show_icons=true&theme=dracula)](https://github.com/dongjay00/github-readme-stats)
