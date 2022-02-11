@@ -4,12 +4,12 @@
 # 📘 Jay's Profile 📘
 이동훈
 <br />
-Front-end Developer
+Web Front-end Developer
 <br />
 
 ## 🛠 Tech 🛠
 
-|Languages|Web Frontend|Web Backend|
+|Languages|Web Front-end|Web Back-end|
 |---|---------|---|
 |![a](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![b](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![c](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)|![a](https://img.shields.io/badge/React-50D1F3?style=flat-square&logo=React&logoColor=white) ![b](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) ![c](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)|![a](https://img.shields.io/badge/Node.js-7FC728?style=flat-square&logo=Node.js&logoColor=white) ![b](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white) ![c](https://img.shields.io/badge/mongoDB-4D9144?style=flat-square&logo=mongoDB&logoColor=white)|
 <!-- <br> ![d](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white) ![e](https://img.shields.io/badge/MongoDB-3F9937?style=flat-square&logo=MongoDB&logoColor=white) -->
