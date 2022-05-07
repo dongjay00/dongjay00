@@ -16,8 +16,8 @@ Web Front-end Developer
 <!-- ![c](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) -->
 <!-- https://img.shields.io/badge/Vue-40A572?style=flat-square&logo=Vue.js&logoColor=white -->
 
-[![Donghoon Lee's github stats](https://github-readme-stats.vercel.app/api?username=dongjay00&show_icons=true&theme=dracula)](https://github.com/dongjay00/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjay00&layout=compact&theme=dracula)](https://github.com/dongjay00)
+<!-- [![Donghoon Lee's github stats](https://github-readme-stats.vercel.app/api?username=dongjay00&show_icons=true&theme=dracula)](https://github.com/dongjay00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjay00&layout=compact&theme=dracula)](https://github.com/dongjay00) -->
 
 ## 🍋 Career 🍋
 
