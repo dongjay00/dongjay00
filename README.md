@@ -4,7 +4,7 @@
 # 📘 Jay's Profile 📘
 이동훈
 <br />
-Web Front-end Developer
+Front-end Developer
 <br />
 
 ## 🛠 Tech 🛠
