@@ -25,7 +25,7 @@ Front-end Developer
 
 |Period|Company|What I did|
 |---|------|---------|
-|2022.02 ~ |merakiplace Inc.|나만의닥터 App 개발 (TypeScript, React Native, Redux-toolkit) 의/약사 파트너페이지 개발 (TypeScript, React, Next.js, Redux-toolkit)
+|2022.02 ~ |merakiplace Inc.|나만의닥터 App 개발 (TypeScript, React Native, Redux-toolkit) \ 의/약사 파트너페이지 개발 (TypeScript, React, Next.js, Redux-toolkit)
 
 ## 🍎 How to reach me 🍎
 <a href="mailto:cjswodlehdgn@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjswodlehdgn@gmail.com"/></a>
