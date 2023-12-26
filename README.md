@@ -9,7 +9,7 @@ Full Stack Developer
 
 ## 🛠 Tech 🛠
 
-![a](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![b](https://img.shields.io/badge/React-50D1F3?style=flat-square&logo=React&logoColor=white) ![c](https://img.shields.io/badge/React%20Native-212121?style=flat-square&logo=React&logoColor=25D2F5) ![d](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) ![e](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![a](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![b](https://img.shields.io/badge/React-50D1F3?style=flat-square&logo=React&logoColor=white) ![c](https://img.shields.io/badge/React%20Native-212121?style=flat-square&logo=React&logoColor=25D2F5) ![d](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 
 <!-- |Languages|Web Front-end|Web Back-end|
 |---|---------|---|
