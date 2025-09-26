@@ -8,7 +8,7 @@
 
 ## 👋 Introduce
 
-- TypeScript 기반으로 **웹/앱 서비스**를 개발/배포/운영해온 4년차 개발자입니다.  
+- **웹/앱 서비스**를 개발/배포/운영해온 4년차 개발자입니다.  
 - 스타트업 환경에서 **프론트엔드 → 모바일 앱 → 백엔드**까지 빠르게 확장하며 서비스 성장에 기여했습니다.  
 - **재사용성과 안정성**을 고려한 코드 작성, **사용자 경험(UX)** 중심의 개발을 지향합니다.  
 - AI 도구(Copilot, ChatGPT, Claude, Gemini, Cursor 등)를 적극적으로 활용하여 **효율적이고 확장성 있는 개발**에 관심이 많습니다.  
@@ -27,7 +27,7 @@ Java · Spring Boot · JPA · QueryDSL · Node.js · Express
 MySQL · AWS · Docker · GitHub Actions  
 
 **Etc**  
-Supabase · Firebase (FCM) · Cloudinary · Vercel  
+Supabase · Firebase (FCM) · Vercel  
 
 ---
 
@@ -40,11 +40,7 @@ Supabase · Firebase (FCM) · Cloudinary · Vercel
   - 기존 .NET 기반 제품 한계 확인 → Next.js & TypeScript 기반으로 신규 개발
   - Turborepo 기반 모노레포 구조 설계 및 문서화
 - **제품 고도화**
-  - 프론트엔드(Next.js 15)와 백엔드(Spring Boot, MySQL) 개발 동시 진행
-  - GitHub Actions 최적화 → 빌드 타임 **1분 30초 단축**
-  - 배포 파이프라인 개선 → 특정 제품만 증분 빌드 가능하도록 변경
-- **성과**
-  - 빌드 속도 개선(9초 → 3초), 서비스 성능 최적화, 사내 개발 생산성 향상
+  - 프론트엔드(Next.js)와 백엔드(Spring Boot, MySQL) 개발 동시 진행
 
 ---
 
@@ -69,9 +65,7 @@ Supabase · Firebase (FCM) · Cloudinary · Vercel
 ### 합창단 웹사이트 & 공연 홍보 페이지 (2024.06 ~ 현재)  
 [메인 홈페이지](https://yonseigleeclub.org/) ｜ [40주년 공연 페이지](https://yonseigleeclub.org/40y-ann-concert)  
 
-- Next.js 15(App Router) + Supabase + Vercel 기반  
-- 다국어 지원(next-intl), 이미지 관리(Cloudinary), 웹 푸시 알림(FCM)  
-- PWA(next-pwa) 적용 → 성능 개선 및 모바일 최적화  
+- Next.js 15(App Router) + Supabase + Vercel 기반
 - 합창단 사단법인화 준비 및 공연 홍보/역사 기록의 창구로 활용  
 
 ---
