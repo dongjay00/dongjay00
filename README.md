@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjay00&count_bg=%2379C83D&title_bg=%23555555&&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub followers](https://img.shields.io/github/followers/dongjay00?style=social)
 
 # 📘 Jay's Profile 📘
@@ -34,7 +33,7 @@ Supabase · Firebase (FCM) · Vercel
 ## 🍋 Work Experience
 
 ### Portlogics (2023.11 ~ 현재) ｜ **SW Engineer**
-물류 SaaS 플랫폼 스타트업 (시리즈 pre-A, 87.9억 투자 유치)  
+물류/무역 플랫폼 스타트업 (시리즈 pre-A, 87.9억 투자 유치)  
 
 - **오더 통합 관리 시스템 신규 개발**
   - 기존 .NET 기반 제품 한계 확인 → Next.js & TypeScript 기반으로 신규 개발
